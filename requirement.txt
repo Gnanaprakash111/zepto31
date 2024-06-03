@@ -1,10 +1,8 @@
 Owner avatar zepto31 Public Gnanaprakash111/zepto31 Go to file
-t
 Add file
 Folders and files
 Name		
 Latest commit
-Gnanaprakash111
 Gnanaprakash111
 to learning the aws devops in GG
 17b64d9
@@ -16,23 +14,4 @@ to learning the aws devops in GG
 39 minutes ago
 src
 to learning the aws devops in GG
-39 minutes ago
-Repository files navigation
-README
-Add a README
-Help people interested in this repository understand your project by adding a README.
-About
-No description, website, or topics provided.
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
+
